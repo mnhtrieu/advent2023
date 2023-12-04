@@ -12,3 +12,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 
 * [Day 01](https://github.com/mnhtrieu/advent2023/tree/master/01_day) - Trebuchet?! | PART 1: `55712` | PART 2: `55413`
 * [Day 02](https://github.com/mnhtrieu/advent2023/tree/master/02_day) - Cube Conundrum | PART 1: `2776` | PART 2: `68638`
+* [Day 03](https://github.com/mnhtrieu/advent2023/tree/master/03_day) - Gear Ratios | PART 1: `531561` | PART 2: `83279367`

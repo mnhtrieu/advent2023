@@ -1,4 +1,5 @@
 demo*
+.DS_Store
 demo.*
 .vscode/
-a.out
+a.out*
