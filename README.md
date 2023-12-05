@@ -14,3 +14,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 02](https://github.com/mnhtrieu/advent2023/tree/master/02_day) - Cube Conundrum | PART 1: `2776` | PART 2: `68638`
 * [Day 03](https://github.com/mnhtrieu/advent2023/tree/master/03_day) - Gear Ratios | PART 1: `531561` | PART 2: `83279367`
 * [Day 04](https://github.com/mnhtrieu/advent2023/tree/master/04_day) - Scratchcards | PART 1: `23673` | PART 2: `12263631`
+* [Day 05](https://github.com/mnhtrieu/advent2023/tree/master/05_day) - Scratchcards | PART 1: `510109797` | PART 2: `9622622`
