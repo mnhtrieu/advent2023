@@ -17,4 +17,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 05](https://github.com/mnhtrieu/advent2023/tree/master/05_day) - If You Give A Seed A Fertilizer | PART 1: `510109797` | PART 2: `9622622`
 * [Day 06](https://github.com/mnhtrieu/advent2023/tree/master/06_day) - Wait For It | PART 1: `800280` | PART 2: `45128024`
 * [Day 07](https://github.com/mnhtrieu/advent2023/tree/master/07_day) - Camel Cards | PART 1: `250951660` | PART 2: `251481660`
-* [Day 07](https://github.com/mnhtrieu/advent2023/tree/master/08_day) - Haunted Wasteland | PART 1: `17141` | PART 2: `10818234074807`
+* [Day 08](https://github.com/mnhtrieu/advent2023/tree/master/08_day) - Haunted Wasteland | PART 1: `17141` | PART 2: `10818234074807`
