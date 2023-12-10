@@ -19,3 +19,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 07](https://github.com/mnhtrieu/advent2023/tree/master/07_day) - Camel Cards | PART 1: `250951660` | PART 2: `251481660`
 * [Day 08](https://github.com/mnhtrieu/advent2023/tree/master/08_day) - Haunted Wasteland | PART 1: `17141` | PART 2: `10818234074807`
 * [Day 09](https://github.com/mnhtrieu/advent2023/tree/master/09_day) - Mirage Maintenance | PART 1: `1789635132` | PART 2: `913`
+* [Day 10](https://github.com/mnhtrieu/advent2023/tree/master/10_day) - Pipe Maze | PART 1: `6757` | PART 2: `523`
