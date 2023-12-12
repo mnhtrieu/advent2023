@@ -21,3 +21,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 09](https://github.com/mnhtrieu/advent2023/tree/master/09_day) - Mirage Maintenance | PART 1: `1789635132` | PART 2: `913`
 * [Day 10](https://github.com/mnhtrieu/advent2023/tree/master/10_day) - Pipe Maze | PART 1: `6757` | PART 2: `523`
 * [Day 11](https://github.com/mnhtrieu/advent2023/tree/master/11_day) - Cosmic Expansion | PART 1: `9545480` | PART 2: `406725732046`
+* [Day 12](https://github.com/mnhtrieu/advent2023/tree/master/12_day) - Hot Springs | PART 1: `7732` | PART 2: `4500070301581`
