@@ -25,3 +25,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 13](https://github.com/mnhtrieu/advent2023/tree/master/13_day) - Point of Incidence | PART 1: `35691` | PART 2: `39037`
 * [Day 14](https://github.com/mnhtrieu/advent2023/tree/master/14_day) - Parabolic Reflector Dish | PART 1: `113078` | PART 2: `94255`
 * [Day 15](https://github.com/mnhtrieu/advent2023/tree/master/15_day) - Lens Library | PART 1: `510013` | PART 2: `268497`
+* [Day 16](https://github.com/mnhtrieu/advent2023/tree/master/16_day) - The Floor Will Be Lava | PART 1: `7477` | PART 2: `7853`
