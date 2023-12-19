@@ -28,3 +28,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 16](https://github.com/mnhtrieu/advent2023/tree/master/16_day) - The Floor Will Be Lava | PART 1: `7477` | PART 2: `7853`
 * [Day 17](https://github.com/mnhtrieu/advent2023/tree/master/17_day) - Clumsy Crucible | PART 1: `1044` | PART 2: `1227`
 * [Day 18](https://github.com/mnhtrieu/advent2023/tree/master/18_day) - Lavaduct Lagoon | PART 1: `62573` | PART 2: `54662804037719`
+* [Day 19](https://github.com/mnhtrieu/advent2023/tree/master/19_day) - Aplenty | PART 1: `495298` | PART 2: `132186256794011`
