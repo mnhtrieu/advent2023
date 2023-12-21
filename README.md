@@ -30,3 +30,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 18](https://github.com/mnhtrieu/advent2023/tree/master/18_day) - Lavaduct Lagoon | PART 1: `62573` | PART 2: `54662804037719`
 * [Day 19](https://github.com/mnhtrieu/advent2023/tree/master/19_day) - Aplenty | PART 1: `495298` | PART 2: `132186256794011`
 * [Day 20](https://github.com/mnhtrieu/advent2023/tree/master/20_day) - Pulse Propagation | PART 1: `873301506` | PART 2: `241823802412393`
+* [Day 21](https://github.com/mnhtrieu/advent2023/tree/master/21_day) - Step Counter | PART 1: `3731` | PART 2: `617565692567199`
