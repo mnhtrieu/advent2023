@@ -31,3 +31,7 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 19](https://github.com/mnhtrieu/advent2023/tree/master/19_day) - Aplenty | PART 1: `495298` | PART 2: `132186256794011`
 * [Day 20](https://github.com/mnhtrieu/advent2023/tree/master/20_day) - Pulse Propagation | PART 1: `873301506` | PART 2: `241823802412393`
 * [Day 21](https://github.com/mnhtrieu/advent2023/tree/master/21_day) - Step Counter | PART 1: `3731` | PART 2: `617565692567199`
+* [Day 22](https://github.com/mnhtrieu/advent2023/tree/master/22_day) - Sand Slabs | PART 1: `463` | PART 2: `89727`
+* [Day 23](https://github.com/mnhtrieu/advent2023/tree/master/23_day) - A Long Walk | PART 1: `3731` | PART 2: `617565692567199`
+* [Day 24](https://github.com/mnhtrieu/advent2023/tree/master/24_day) - Never Tell Me The Odds | PART 1: `12343` | PART 2: `769281292688187`
+* [Day 25](https://github.com/mnhtrieu/advent2023/tree/master/25_day) - Snowverload | PART 1: `531437`
